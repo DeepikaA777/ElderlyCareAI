@@ -53,6 +53,6 @@ A healthy and active senior who focuses on exercise (62.5%), meditation (25%), a
 
 
 # Author
-Deepika
-Graphic Designer & UI/UX Enthusiast
+- Deepika
+- Graphic Designer & UI/UX Enthusiast
 
