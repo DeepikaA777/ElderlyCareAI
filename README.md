@@ -39,7 +39,7 @@ This project features the UI for a user profile screen showing:
 - Tailored for AI integration and health care automation
 
 
-#User Highlight:
+# User Highlight:
 
 * Sample user:
 Jiara Martins, 67 years old
