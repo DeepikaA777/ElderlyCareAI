@@ -1,5 +1,6 @@
 # ElderlyCare AI - Powered App UI Design Project 
 #This is my first UI design, I created this project thouthfully and creatively.
+
 ElderlyCare is a smart and intuitive UI design project focused on improving the lifestyle of elderly people through personalized AI support.
 
 The design emphasizes health monitoring, mental wellness, and daily activity tracking, tailored for elderly users.
